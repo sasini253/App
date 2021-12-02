@@ -1,2 +1,2 @@
 # App
-Created with CodeSandbox
+Language translate app
